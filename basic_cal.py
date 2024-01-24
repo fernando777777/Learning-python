@@ -1,4 +1,4 @@
-#script title: basic calculagor v1
+#script title: calculadora basica v1
 '''developer name: edwin f'''
 
 #IMPUTS (two static variables)
