@@ -1,8 +1,7 @@
-name="fernando”
-city="Pasto"
-age="33"
+name = "fernando"
+country = "Colombia"
+birthday = 1990
+now = 2024
 
-print("Nombre:",name,"Ciudad",city,"Edad",age)
-print("Nombre:",name)
-print("Ciudad",city)
-print("Edad",age)
+print("You're", name, "and you're from", country)
+print("Your age is", now-birthday)

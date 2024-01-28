@@ -3,7 +3,7 @@ API Aplicacion Programing Interface
 Nasa: get comets cometas del espacio 
 Nasa API https://api.nasa.gov/
 api_key Nasa: Vi62rU7uo64O2fsMWnNEuUWWyQ5XqMintLcRWPK9
-DEVELOPER: EDWIN F. BACCA
+DEVELOPER: EDWIN F. B.
 DATA 24012024
 SCRIPT DESCRIPTION: OBTENER Y LEER DATOS DE COMETAS DE LA NASA
 '''
